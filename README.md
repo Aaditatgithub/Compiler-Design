@@ -1,7 +1,7 @@
 # Compiler-Design
 Coursework for understanding lex for compiler design
 
-  1. [Getting-started](getting-started)
+  1. [Getting-Started-(On-Windows)](getting-started)
 
 ## Getting Started (On Windows)
 Flex (Fast Lexical Analyzer) is a tool for generating scanners: programs that recognize lexical patterns in text. Flex is commonly used in combination with Bison, a parser generator.
